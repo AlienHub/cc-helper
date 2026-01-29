@@ -19,7 +19,7 @@
     "config",
     "cli"
   ],
-  "author": "",
+  "author": "AlienHub",
   "license": "MIT",
   "dependencies": {
     "prompts": "^2.4.2",
@@ -28,6 +28,14 @@
   },
   "engines": {
     "node": ">=14.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlienHub/cc-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlienHub/cc-helper/issues"
+  },
+  "homepage": "https://github.com/AlienHub/cc-helper#readme"
 }
 
