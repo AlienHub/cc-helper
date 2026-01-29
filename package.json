@@ -1,5 +1,5 @@
 {
-  "name": "cc-helper",
+  "name": "@alienzhou1958/cc-helper",
   "version": "1.0.0",
   "description": "交互式配置 Claude Code (Claude/GLM/MiniMax) API 密钥的 CLI 工具",
   "main": "index.js",

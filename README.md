@@ -1,4 +1,4 @@
-# cc-helper - Claude Code 密钥配置工具
+# @alienzhou1958/cc-helper - Claude Code 密钥配置工具
 
 > [English](README_EN.md) | 中文
 
@@ -26,13 +26,13 @@
 ### 通过 npx 运行（推荐）
 
 ```bash
-npx cc-helper
+npx @alienzhou1958/cc-helper
 ```
 
 ### 本地安装
 
 ```bash
-npm install -g cc-helper
+npm install -g @alienzhou1958/cc-helper
 ```
 
 安装后直接运行：
@@ -120,7 +120,7 @@ cc-helper
 ```bash
 # 克隆项目
 git clone <repository-url>
-cd cc-helper
+cd @alienzhou1958/cc-helper
 
 # 安装依赖
 npm install
@@ -140,17 +140,17 @@ npm run build
 npm pack
 ```
 
-这会生成一个 `cc-helper-1.0.0.tgz` 文件。
+这会生成一个 `alienzhou1958-cc-helper-1.0.0.tgz` 文件。
 
 2. **分发安装**：
 将 `.tgz` 文件分发给团队成员，他们可以通过以下方式安装：
 
 ```bash
 # 全局安装
-npm install -g /path/to/cc-helper-1.0.0.tgz
+npm install -g /path/to/alienzhou1958-cc-helper-1.0.0.tgz
 
 # 或本地安装
-npm install /path/to/cc-helper-1.0.0.tgz
+npm install /path/to/alienzhou1958-cc-helper-1.0.0.tgz
 ```
 
 安装后即可使用 `cc-helper` 命令。

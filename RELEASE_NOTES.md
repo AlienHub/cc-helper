@@ -1,4 +1,4 @@
-# cc-helper v1.0.0
+# c-helper v1.0.0
 
 🎉 **First Release!** A simple and easy-to-use CLI tool for interactively configuring [Claude Code](https://code.claude.com) API keys.
 
@@ -26,22 +26,22 @@
 
 ### Via npx (Recommended)
 ```bash
-npx cc-helper
+npx c-helper
 ```
 
 ### Global Installation
 ```bash
-npm install -g cc-helper
+npm install -g c-helper
 ```
 
 ### From GitHub
 ```bash
-npm install -g git+https://github.com/AlienHub/cc-helper.git
+npm install -g git+https://github.com/AlienHub/c-helper.git
 ```
 
 ## 🚀 Quick Start
 
-1. Run `cc-helper` or `npx cc-helper`
+1. Run `c-helper` or `npx c-helper`
 2. Select your preferred language (中文/English)
 3. Choose "Configure/Update Key" to set up your API key
 4. Select a service provider (GLM, MiniMax, Kimi, or Custom)
@@ -73,7 +73,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ---
 
-**Enjoy using cc-helper!** 🎉
+**Enjoy using c-helper!** 🎉
 
-If you encounter any issues or have suggestions, please open an issue on [GitHub](https://github.com/AlienHub/cc-helper).
+If you encounter any issues or have suggestions, please open an issue on [GitHub](https://github.com/AlienHub/c-helper).
 

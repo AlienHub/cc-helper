@@ -1,4 +1,4 @@
-# cc-helper - Claude Code API Key Configuration Tool
+# @alienzhou1958/cc-helper - Claude Code API Key Configuration Tool
 
 > English | [中文](README.md)
 
@@ -26,13 +26,13 @@ A simple and easy-to-use CLI tool for interactively configuring [Claude Code](ht
 ### Run via npx (Recommended)
 
 ```bash
-npx cc-helper
+npx @alienzhou1958/cc-helper
 ```
 
 ### Local Installation
 
 ```bash
-npm install -g cc-helper
+npm install -g @alienzhou1958/cc-helper
 ```
 
 After installation, run directly:
@@ -120,7 +120,7 @@ Configuration file format example:
 ```bash
 # Clone the project
 git clone <repository-url>
-cd cc-helper
+cd @alienzhou1958/cc-helper
 
 # Install dependencies
 npm install
@@ -140,17 +140,17 @@ npm run build
 npm pack
 ```
 
-This will generate a `cc-helper-1.0.0.tgz` file.
+This will generate a `alienzhou1958-cc-helper-1.0.0.tgz` file.
 
 2. **Distribute and Install**:
 Distribute the `.tgz` file to team members, who can install it via:
 
 ```bash
 # Global installation
-npm install -g /path/to/cc-helper-1.0.0.tgz
+npm install -g /path/to/alienzhou1958-cc-helper-1.0.0.tgz
 
 # or local installation
-npm install /path/to/cc-helper-1.0.0.tgz
+npm install /path/to/alienzhou1958-cc-helper-1.0.0.tgz
 ```
 
 After installation, you can use the `cc-helper` command.
